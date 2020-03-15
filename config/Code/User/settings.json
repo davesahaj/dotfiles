@@ -1,0 +1,40 @@
+{
+    "editor.fontSize": 20,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "explorer.sortOrder": "modified",
+    "workbench.editor.highlightModifiedTabs": true,
+    "editor.cursorBlinking": "expand",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.mouseWheelZoom": true,
+    "editor.cursorSmoothCaretAnimation": true,
+        "workbench.sideBar.location": "right",
+
+
+    "[json]": {
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cph.general.defaultLanguage": "cpp",
+    "cph.general.defaultLanguageTemplateFileLocation": "/home/dave/Desktop/Self Study/Programs/cpp/cp-solutions/template.txt",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": 1,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "Cobalt2",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.minimap.enabled": false
+}
